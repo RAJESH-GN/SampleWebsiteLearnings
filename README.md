@@ -1,2 +1,3 @@
-# SampleWebsiteLearnings
-SampleWebsite
+# SampleWebsiteLearnings --An Amazing Website Designing
+Sample Website
+
